@@ -1,0 +1,20 @@
+# Define variables for the buffer
+# If the buffer is enabled then all
+# changes to the config require a
+# plugin reload each time they are
+# changed.
+Buffer:
+  Enabled: true
+  Size: 3
+
+# Announce a rage quit to the server
+Announcement:
+  Enabled: true
+  Message: '&F{player} &7rage quit!'
+
+# Messages to kick the quitter with
+# These messages are chosen randomly
+# when the command is run
+Messages:
+  - 'How do I Minecraft??'
+  - 'Maybe ask someone for help..'

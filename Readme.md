@@ -1,0 +1,4 @@
+### Rage Quit Plugin for Bukkit
+This is a very overdeveloped and well documented plugin for Bukkit that allows players to rage quit with the `/ragequit` command. When a player uses this command they are kicked from the server with a random message defined in a list of messages within the configuration file.
+
+RageQuit is __very__ well documented, every piece of code has comments describing what it does and why it's there. The goal was to create a simple yet well developed plugin to showcase enterprise level development within the Minecraft development world. I'll be updating this every so often to add new features and things and encourage contributors to add more features and modern practices to the project (see Contributing.md)

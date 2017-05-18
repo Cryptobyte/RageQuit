@@ -1,0 +1,1 @@
+Contributors are welcome to add to RageQuit, however since the purpose of this project is to be a well developed and well documented plugin I will ask that any contributions follow the general style of code and documentation. Make a detailed description for each part of your code and utilize modern Java (stable) features.

@@ -1,0 +1,10 @@
+name: RageQuit
+version: 0.1
+description: Rage Quit In Style
+author: Cryptobyte
+website: https://github.com/Cryptobyte/RageQuit
+main: org.lawlsec.RageQuit.RageQuit
+commands:
+   ragequit:
+     description: Rage Quit
+     usage: No
