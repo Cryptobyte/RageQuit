@@ -7,6 +7,9 @@ Buffer:
   Enabled: true
   Size: 3
 
+Events:
+  Enabled: true
+
 # Announce a rage quit to the server
 Announcement:
   Enabled: true
