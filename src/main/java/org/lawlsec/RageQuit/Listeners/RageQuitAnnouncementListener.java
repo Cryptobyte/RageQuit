@@ -22,6 +22,10 @@ public class RageQuitAnnouncementListener implements Listener {
     @EventHandler(priority = EventPriority.MONITOR)
     public void onRageQuitAnnouncement(RageQuitAnnouncementEvent event) {
 
+        // If events are disabled in config then ignore this event
+        if (!RageQuit.getInstance().getConfig().getBoolean("Events.Enabled"))
+            return;
+
         // If event is cancelled, ignore it
         if (event.isCancelled())
             return;
